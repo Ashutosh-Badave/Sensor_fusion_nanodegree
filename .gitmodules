@@ -7,3 +7,6 @@
 [submodule "3.3D_Object_Tracking_Using_Camera_n_Lidar"]
 	path = 3.3D_Object_Tracking_Using_Camera_n_Lidar
 	url = git@github.com:Ashutosh-Badave/3.3D_Object_Tracking_Using_Camera_n_Lidar.git
+[submodule "4.Radar-Target-Generation-and-Detection"]
+	path = 4.Radar-Target-Generation-and-Detection
+	url = https://github.com/Ashutosh-Badave/4.Radar-Target-Generation-and-Detection.git
