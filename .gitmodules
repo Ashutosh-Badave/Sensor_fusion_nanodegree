@@ -4,3 +4,6 @@
 [submodule "2.Camera_based_2D_feature_matching"]
 	path = 2.Camera_based_2D_feature_matching
 	url = git@github.com:Ashutosh-Badave/2.Camera_based_2D_feature_matching.git
+[submodule "3.3D_Object_Tracking_Using_Camera_n_Lidar"]
+	path = 3.3D_Object_Tracking_Using_Camera_n_Lidar
+	url = git@github.com:Ashutosh-Badave/3.3D_Object_Tracking_Using_Camera_n_Lidar.git
