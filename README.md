@@ -6,7 +6,7 @@ program.
 **Note: If you needed to check all the projects together then only clone the master repository else you can just visit 
 the individual submodules and clone that repository for better use.**
 
-###Setup for master repository and submodules ###
+### Setup for master repository and submodules ###
 1. As always, first step is cloning the master repository. But this repositroy consist of submodules which are 
 actually different repositories so to fetch all of them together you need to use little bit different command 
 than usual for repository cloning, which will be:
